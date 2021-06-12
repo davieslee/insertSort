@@ -1,2 +1,2 @@
-# insertSort
-insertSort
+# Sort
+Sort
